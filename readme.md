@@ -5,7 +5,7 @@ This is a python blackjack game.
 
 ## Screenshots
 
-![Terminal Screenshot](/addcontact.png)
+![Terminal Screenshot](/bj.png)
 
 
   
